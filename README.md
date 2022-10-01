@@ -30,6 +30,6 @@
 
 <h3 align="left">✌  Social networks:</h3>
   <a href="https://www.facebook.com/dotaxtlpv" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E2495F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:17.dotero.17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "17.dotero.17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-porta-ñaña-b74967251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://diegoporta20.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230049B8?style=for-the-badge&logo=Portfolio&logoColor=white" target="_blank"></a>
