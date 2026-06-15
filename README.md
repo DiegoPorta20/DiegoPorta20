@@ -77,19 +77,6 @@
 
   ---
 
-  ### 📌 Featured work
-
-  | Project | Stack | Highlights |
-  | :-- | :-- | :-- |
-  | **Talent API** — Recruitment platform | `.NET 8` `PostgreSQL` `AWS S3/Lambda` | Clean Architecture · presigned URLs · cold-start <800ms |
-  | **RealTime Service** — Live dashboards | `.NET 8` `SignalR` `Dapper` `SQL Server` | 200+ concurrent connections · <150ms push latency |
-  | **Communications API** — Multichannel | `.NET 8` `MediatR` `Twilio` `SendGrid` | CQRS · SMS / WhatsApp / Email · 4 systems served |
-  | **DataSheet API** — Clinical records | `.NET 8` `EF Core` `ClosedXML` | Domain events · bulk Excel · 7-project modular setup |
-
-  → Full case studies at **[diegoporta20.github.io/Portfolio](https://diegoporta20.github.io/Portfolio/)**
-
-  ---
-
   ### 📊 GitHub stats
 
   <div align="center">
