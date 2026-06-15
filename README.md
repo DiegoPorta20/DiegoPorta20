@@ -18,7 +18,7 @@
 
   ### 🚀 About me
 
-  I'm a Software Engineering graduate with **3+ years** designing and shipping full-stack applications. I focus on **Clean Architecture**, **.NET 8 microservices**, real-time systems
+  I'm a Software Engineering graduate with **3+ years** designing and shipping full-stack applications. I focus on **Clean Architecture**, real-time systems
   with SignalR, and modern frontends with Angular, React and Vue.
 
   I care about **code that outlives its first deploy** — architecture-first, metrics-driven, pragmatic.
