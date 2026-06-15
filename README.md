@@ -63,20 +63,9 @@
   ### 🛠️ Currently building
 
   - 🏥 A **microservices ecosystem** for healthcare systems (4 services in production)
-  - ⚡ Real-time hospital dashboards with **SignalR** and dynamic group broadcasting
+  - ⚡ Real-time dashboards with **SignalR** and dynamic group broadcasting
   - 📨 A unified **communications API** orchestrating Twilio (SMS / WhatsApp) and SendGrid
   - ☁️ Deployments on **AWS Lambda + S3** with Clean Architecture as the backbone
-
-  ---
-
-  ### 📌 Featured work
-
-  | Project | Stack | Highlights |
-  | :-- | :-- | :-- |
-  | **Talent API** — Recruitment platform | `.NET 8` `PostgreSQL` `AWS S3/Lambda` | Clean Architecture · presigned URLs · cold-start <800ms |
-  | **RealTime Service** — Live dashboards | `.NET 8` `SignalR` `Dapper` `SQL Server` | 200+ concurrent connections · <150ms push latency |
-  | **Communications API** — Multichannel | `.NET 8` `MediatR` `Twilio` `SendGrid` | CQRS · SMS / WhatsApp / Email · 4 systems served |
-  | **DataSheet API** — Clinical records | `.NET 8` `EF Core` `ClosedXML` | Domain events · bulk Excel · 7-project modular setup |
 
   → Full case studies at **[diegoporta20.github.io/Portfolio](https://diegoporta20.github.io/Portfolio/)**
 
@@ -90,14 +79,6 @@
   GitHub stats"/>
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPorta20&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top
   languages"/>
-  </div>
-
-  <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=DiegoPorta20&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-  </div>
-
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=DiegoPorta20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
   </div>
 
   ---
