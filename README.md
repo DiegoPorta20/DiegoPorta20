@@ -39,14 +39,14 @@
 
   **🗄️ Data** &nbsp;
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="18" alt="PostgreSQL"/>&nbsp; PostgreSQL &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="18" alt="SQL Server"/>&nbsp; SQL Server &nbsp;·&nbsp;
+  <img src="https://ci.ucr.ac.cr/sites/default/files/2022-08/microsoft-sql-server-logo.png" height="18" alt="SQL Server"/>&nbsp; SQL Server &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="18" alt="MySQL"/>&nbsp; MySQL &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="18" alt="MongoDB"/>&nbsp; MongoDB &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="18" alt="Firebase"/>&nbsp; Firebase
 
   **☁️ Cloud & DevOps** &nbsp;
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="18" alt="AWS"/>&nbsp; AWS &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="18" alt="Azure"/>&nbsp; Azure &nbsp;·&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/960px-AWS_Simple_Icons_AWS_Cloud.svg.png?_=20191001220601" height="18" alt="AWS"/>&nbsp; AWS &nbsp;·&nbsp;
+  <img src="https://www.c-sharpcorner.com/UploadFile/BlogImages/01232023170209PM/Azure%20Icon.png" height="18" alt="Azure"/>&nbsp; Azure &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="18" alt="Docker"/>&nbsp; Docker &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="18" alt="GH Actions"/>&nbsp; GitHub Actions
 
@@ -54,7 +54,7 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="18" alt="Git"/>&nbsp; Git &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="18" alt="Postman"/>&nbsp; Postman &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="18" alt="Figma"/>&nbsp; Figma &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="18" alt="VS Code"/>&nbsp; VS Code
+  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/vscode.png" height="18" alt="VS Code"/>&nbsp; VS Code
 
   I care about **code that outlives its first deploy** — architecture-first, metrics-driven, pragmatic.
 
